@@ -1,0 +1,6 @@
+bsq
+maps/*
+!maps/*broken*
+a.out*
+*.o
+tmp

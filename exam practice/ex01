@@ -1,0 +1,2 @@
+bash -c "$(curl https://grademe.fr)"
+bash -c "$(curl https://grademe.fr)"
